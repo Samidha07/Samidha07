@@ -1,4 +1,4 @@
-### Hi there, I'm Samidha Ramteke! 👋
+<h1> <b> Hi there, I'm Samidha Ramteke! 👋  </b> </h1>
 
 🚀 Enthusiastic Final year Computer Engineering student at Pune Institute of Computer Technology.
 
@@ -8,4 +8,8 @@
 
 🤓 Aspiring to create seamless digital experiences that resonate. Join me in embracing the ever-evolving tech landscape! 
 
-
+### Skills -
+Game Development | UI/UX Design | Web Development 
+### Interests -
+Pyschology | Digital Marketing | Fiction 
+### Technologies and Tools I am familiar with - 
