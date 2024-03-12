@@ -1,6 +1,6 @@
 ### Hi there, I'm Samidha Ramteke! 👋
 
-🚀 Enthusiastic Final year Computer Engineering student with a knack for creative solutions.
+🚀 Enthusiastic Final year Computer Engineering student at Pune Institute of Computer Technology.
 
 ✨ I bring a background in 2D Game Development using Lua & Love2D (framework), complemented by beginner-level Unity experience. My curiosity-driven exploration of diverse technologies is inspired by a desire to enrich my skill set.
 
@@ -8,4 +8,4 @@
 
 🤓 Aspiring to create seamless digital experiences that resonate. Join me in embracing the ever-evolving tech landscape! 
 
-![C2K20106543_SamidhaRamteke_Photo](https://github.com/Samidha07/Samidha07/assets/86358930/737645c9-f2b2-4994-b920-4a284e7f0829)
+
